@@ -42,6 +42,7 @@ mind_mirror/
 
 1. **Screener** — Interactive form with TIPI sliders + demographics → risk prediction with probability, top feature drivers, and plain-language explanation.
 2. **Global Insights** — Country risk rates, age group breakdown, and personality profile comparisons between at-risk and low-risk groups.
+3. **Model Card** — Cross-validation table, confusion matrix, ROC curve, feature importance, threshold rationale, and known limitations.
 
 ## Model Details
 
